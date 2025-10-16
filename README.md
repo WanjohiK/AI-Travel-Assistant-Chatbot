@@ -2,7 +2,7 @@
 
 An intelligent travel planning assistant built with Python that helps users choose the best airlines, destinations, and travel options based on their preferences. It features a conversational chatbot that provides travel advice and personalized recommendations — for instance, helping parents of neurodivergent children find airlines that accommodate special needs.
 
-Features
+## Features
 
 🌍 Country, Origin, and Destination Selection:
 Users can select their travel country, origin city, and destination city easily.
@@ -50,10 +50,10 @@ How It Works
 
 🧩 Example Use Case
 
-*User:*
+### User:
 
 Hello. I would like to travel from US to UK. I have two neurodivergent kids. Kindly recommend a good airline.
 
-*Assistant:*
+### Assistant:
 
 For traveling with neurodivergent children, I recommend choosing an airline known for excellent customer service and support for families with special needs. Delta Airlines is a good choice as they often provide services to accommodate various requirements, including support for families traveling with children who have special needs. They offer assistance at the airport and in-flight to ensure a comfortable journey.
